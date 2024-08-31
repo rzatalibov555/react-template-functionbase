@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    min-height: 100px;
+    background: #000000;
+    float: left;
+}
+
+
+.social_n{
+    width: 100%;
+    min-height: 100px;
+    float: left;
+    /* background: plum; */
+}
+
+.social_n ul{
+    padding: 0px;
+    margin: 0px auto;
+}
+
+.social_n ul li{
+    float: left;
+    list-style-type: none;
+    margin: 5px;
+    padding: 5px;
+}
+
+.nav_social{
+    color: #7ABAF7;
+
+}

@@ -1,0 +1,9 @@
+.about{
+    width: 100%;
+    min-height: 130px;
+    background: #4F1E89;
+    float: left;
+    color: white;
+    font-family: cursive;
+    font-size: 50px;
+}

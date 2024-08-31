@@ -1,0 +1,11 @@
+.l_side{
+    width: 100%;
+    min-height: 400px;
+    background: #6A36A2;
+    /* background: red; */
+    float: left;
+}
+
+.l_side_img{
+    width: calc(100% - 200px);
+}
